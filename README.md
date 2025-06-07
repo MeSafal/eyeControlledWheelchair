@@ -27,7 +27,7 @@ Individuals with Locked-in syndrome face profound challenges in communication an
 ## 🎥 Demo
 
 - ![Demo Image](images/output.png)
-- [Demo Video](images/video.mp4)
+- [Demo Video](https://drive.google.com/file/d/1QavGxvhbUL2fQrvVY9C85_1CXh6Vu2LD/view?usp=sharing)
 
 All demo assets are in the `images/` folder.
 
