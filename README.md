@@ -39,6 +39,7 @@ Individuals with Locked-in syndrome face profound challenges in communication an
 
 
 All demo assets are in the `images/` folder.
+_Assets are from [Project Report](report.pdf), May be a bit blurry.
 
 ## ✨ Features
 
