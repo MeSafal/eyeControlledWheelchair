@@ -1,6 +1,15 @@
 # Eye Controlled Electric Wheelchair — Proof of Concept  
 _A project by Gokul Subedi, Arjun Koirala, and Sushmit Poudel_
 
+
+---
+## 🎥 Demo Video ▶️
+
+👉 [Watch the full demo video on Google Drive](https://drive.google.com/file/d/1QavGxvhbUL2fQrvVY9C85_1CXh6Vu2LD/view?usp=sharing)  
+_(Hosted externally on Google Drive)_
+
+---
+
 ## 📜 Overview
 
 Enable wheelchair control using eye gestures captured by a laptop camera. Data collection involved gathering a diverse dataset of image frames representing control commands (forward, left, right, stop). A deep learning–based BiLSTM model and image processing techniques recognize and classify pupil movement in real time. The trained model runs on the laptop (or mobile device) to process incoming frames, map recognized gestures to control signals, and transmit precise commands via Bluetooth to an Arduino UNO–based slave controller. The outcome is a functional system that interprets visual clues, accurately recognizes eye movements, and translates them into control signals—empowering users with improved mobility and independence.
@@ -27,7 +36,7 @@ Individuals with Locked-in syndrome face profound challenges in communication an
 ## 🎥 Demo
 
 - ![Demo Image](images/output.png)
-- [Demo Video](https://drive.google.com/file/d/1QavGxvhbUL2fQrvVY9C85_1CXh6Vu2LD/view?usp=sharing)
+
 
 All demo assets are in the `images/` folder.
 
