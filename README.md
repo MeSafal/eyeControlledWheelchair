@@ -16,7 +16,7 @@ Enable wheelchair control using eye gestures captured by a laptop camera. Data c
 
 For full technical details, see the [Project Report](report.pdf).
 
-For research Paper, see the [Paper](report.pdf).
+For research Paper, see the [Paper](research.pdf).
 
 ## 📝 Introduction
 
